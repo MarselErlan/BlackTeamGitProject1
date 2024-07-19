@@ -1,9 +1,9 @@
 package tests;
 
-<<<<<<< HEAD
+
 public class signUpTest {
 
-=======
+
 import org.junit.Assert;
 import org.junit.Test;
 
@@ -12,5 +12,5 @@ public class signUpTest {
     public void testmethod3(){
         Assert.assertTrue(5<10);
     }
->>>>>>> main
+
 }
